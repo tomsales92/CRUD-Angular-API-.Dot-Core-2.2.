@@ -1,0 +1,59 @@
+E:\Projetos\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+E:\Projetos\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+E:\Projetos\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+E:\Projetos\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+E:\Projetos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+E:\Projetos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+E:\Projetos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+E:\Projetos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+E:\Projetos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+E:\Projetos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+E:\Projetos\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+E:\Projetos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+E:\Projetos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+E:\Projetos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+F:\Projetos\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+F:\Projetos\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+F:\Projetos\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+F:\Projetos\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+F:\Projetos\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+F:\Projetos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+F:\Projetos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+F:\Projetos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+F:\Projetos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+F:\Projetos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+F:\Projetos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+F:\Projetos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+F:\Projetos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+F:\Projetos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+E:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+E:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+E:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+E:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+E:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+E:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+E:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+E:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+E:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+E:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+E:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+E:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+E:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+G:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+G:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+G:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+G:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+G:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+G:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+G:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+G:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+G:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+G:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+G:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+G:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+G:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+G:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+G:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+G:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+G:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+G:\Angular\Projetos Angular (PRONTOS)\Pagamento Cartão de Crédito\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.genruntimeconfig.cache
